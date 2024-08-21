@@ -26,7 +26,7 @@ struct TLButton: View {
                     .bold()
             }
         }
-        .padding(10)
+        .padding(11)
     }
 }
 
